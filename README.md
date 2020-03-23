@@ -8,7 +8,6 @@ flask project
 # make
 # make install
 
-
 python3 -m venv myproject
 
 source myproject/bin/activate
@@ -28,3 +27,9 @@ Traceback (most recent call last):"
 
 (myproject) 15:07 ~/flaskexample $ export FLASK_APP=app
 (myproject) 15:09 ~/flaskexample $ export FLASK_ENV=development
+-------------------------directories---------------
+Source code:/home/kutevaibhav01/flaskexample
+
+Working directory:/home/kutevaibhav01/
+
+WSGI configuration file:/var/www/kutevaibhav01_pythonanywhere_com_wsgi.py
